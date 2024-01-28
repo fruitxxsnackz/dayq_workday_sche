@@ -6,8 +6,8 @@ Additional resources used: MDN, StackOverflow, DayJs, Bootstrap, and Google font
 
 ## Webpage Preview
 
-
+![Alt text](./WorkDaySche.png)
 
 ## Webpage Link
 
-Link: 
+Link: https://fruitxxsnackz.github.io/dayq_workday_sche/
